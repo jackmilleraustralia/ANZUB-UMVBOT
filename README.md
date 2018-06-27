@@ -96,7 +96,7 @@ https://steemit.com/politics/@jackmiller/top-politics-transparent-open-and-publi
 
 
 
-# Intorduction posts on Steemit.com (25 April 2108)
+# Introduction posts on Steemit.com (25 April 2108)
 
 # INTRODUCING ANZUB - Australian & New Zealand Upvote Bot
 https://steemit.com/anzub/@anzub/introducing-anzub-australian-and-new-zealand-upvote-bot
