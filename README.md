@@ -110,3 +110,6 @@ https://steemit.com/veterans/@umvbot/introducing-umvbot-military-veterans-of-ste
 Related Posts:
 # TOP Politics = Transparent, Open & Public Politics! U-log Witness Update (28 June 2018)
 https://steemit.com/ulog/@jackmiller/top-politics-transparent-open-and-public-politics-u-log-witness-update-28-june-2018
+
+# TOP Politics = Transparent, Open & Public Politics! UPDATE 04 July 2018.
+https://steemit.com/transparency/@jackmiller/top-politics-transparent-open-and-public-politics-update-04-july-2018
