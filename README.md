@@ -79,37 +79,38 @@ Extra Expense Contingencies : These shouldn’t exist as all liquid funds shall 
 
 # References & Sources:
 
-# Governance Model for a Community Bot
+## Governance Model for a Community Bot
 https://steemit.com/steem/@buggedout/governance-model-for-a-community-bot
 
-# Policy Parameters for a Community Bot
+## Policy Parameters for a Community Bot
 https://steemit.com/steem/@buggedout/policy-parameters-for-a-community-bot
 
-# By @ buggedout
+### By @ buggedout
 
 &
 
-# TOP Politics = Transparent, Open & Public Politics!
+## TOP Politics = Transparent, Open & Public Politics!
 https://steemit.com/politics/@jackmiller/top-politics-transparent-open-and-public-politics
 
-# By @ jackmiller (Witness)
+### By @ jackmiller (Witness)
 
 
 
-# Introduction posts on Steemit.com (25 April 2108)
+## Introduction posts on Steemit.com (25 April 2108)
 
-# INTRODUCING ANZUB - Australian & New Zealand Upvote Bot
+## INTRODUCING ANZUB - Australian & New Zealand Upvote Bot
 https://steemit.com/anzub/@anzub/introducing-anzub-australian-and-new-zealand-upvote-bot
 
 &
 
-# INTRODUCING @UMVbot - Military Veterans of Steemit - Upvote Bot.
+## INTRODUCING @UMVbot - Military Veterans of Steemit - Upvote Bot.
 https://steemit.com/veterans/@umvbot/introducing-umvbot-military-veterans-of-steemit-upvote-bot
 
 
-Related Posts:
-# TOP Politics = Transparent, Open & Public Politics! U-log Witness Update (28 June 2018)
+# Relevant Posts:
+
+## TOP Politics = Transparent, Open & Public Politics! U-log Witness Update (28 June 2018)
 https://steemit.com/ulog/@jackmiller/top-politics-transparent-open-and-public-politics-u-log-witness-update-28-june-2018
 
-# TOP Politics = Transparent, Open & Public Politics! UPDATE 04 July 2018.
+## TOP Politics = Transparent, Open & Public Politics! UPDATE 04 July 2018.
 https://steemit.com/transparency/@jackmiller/top-politics-transparent-open-and-public-politics-update-04-july-2018
