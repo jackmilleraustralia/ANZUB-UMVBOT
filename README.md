@@ -105,3 +105,8 @@ https://steemit.com/anzub/@anzub/introducing-anzub-australian-and-new-zealand-up
 
 # INTRODUCING @UMVbot - Military Veterans of Steemit - Upvote Bot.
 https://steemit.com/veterans/@umvbot/introducing-umvbot-military-veterans-of-steemit-upvote-bot
+
+
+Related Posts:
+# TOP Politics = Transparent, Open & Public Politics! U-log Witness Update (28 June 2018)
+https://steemit.com/ulog/@jackmiller/top-politics-transparent-open-and-public-politics-u-log-witness-update-28-june-2018
